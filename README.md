@@ -4,7 +4,7 @@ A fully responsive and interactive Spotify Clone web application built using HTM
 🌐 Live Demo
 
 🔗 View Live Project
-(Add your GitHub Pages or deployment link here)
+https://akashnaik7396.github.io/spotify/
 📸 Screenshots
 
 
