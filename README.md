@@ -1,11 +1,15 @@
 # spotify🎶
 A fully responsive and interactive Spotify Clone web application built using HTML, CSS, and JavaScript. This project mimics the core design and functionalities of the official Spotify player, allowing users to experience a music streaming interface with play/pause, song list, and a sleek UI.
 
+
 🌐 Live Demo
 
 🔗 View Live Project
 https://akashnaik7396.github.io/spotify/
 📸 Screenshots
+<img width="1280" alt="Screenshot 2025-06-26 at 1 44 03 PM" src="https://github.com/user-attachments/assets/a837fa59-5a45-454b-9142-f1af65b46ec2" />
+<img width="1280" alt="Screenshot 2025-06-26 at 1 44 10 PM" src="https://github.com/user-attachments/assets/a6376c08-5df0-4619-b1f1-c7cbb499fdbe" />
+
 
 
 
